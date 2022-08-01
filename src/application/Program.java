@@ -28,6 +28,7 @@ public class Program {
             ChessPosition target = UI.readChessPosition(sc);
 
             ChessPiece capturedPiece = chessMatch.performChessMove(source, target);
+            //alooo
         }
 
     }
